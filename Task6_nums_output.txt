@@ -1,0 +1,2 @@
+Stroka 1 - Minimum number is: -4, Maximum number is: 5
+Stroka 2 - Minimum number is: 2, Maximum number is: 54
